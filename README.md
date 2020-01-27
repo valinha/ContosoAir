@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/valinhadev/ContosoAir/_apis/build/status/valinha.ContosoAir?branchName=master)](https://dev.azure.com/valinhadev/ContosoAir/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
